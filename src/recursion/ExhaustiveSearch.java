@@ -12,9 +12,9 @@ public class ExhaustiveSearch {
 //        decreaseAndConquerEnumerationOfLengthN(4).forEach(System.out::println);
 //        iterativeEnumerationOfLengthN(3).forEach(System.out::println);
 //        divideAndConquerEnumerationOfLengthN("", 3);
-//        decimalStringsOfLengthN("", 4);
-        permutations("", new LinkedList<>(Arrays.asList("A","B","C")));
-        subsetHelper("", Arrays.asList("1","2", "3"));
+        decimalStringsOfLengthN("", 4);
+//        permutations("", new LinkedList<>(Arrays.asList("A","B","C")));
+//        subsetHelper("", Arrays.asList("1","2", "3"));
 
     }
 
